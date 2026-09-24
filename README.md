@@ -1,6 +1,6 @@
 # SerialFlash
 
-Access SPI Serial Flash memory with filesystem-like functions. SerialFlash provides low-latency, high performance access to SPI Flash memory with a filesystem-like interface. Familiar file-based functions, similar to the SD library, are used to access data. Original author: Paul Stoffregen. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 0.5. Upstream: <https://github.com/PaulStoffregen/SerialFlash>.
+Access SPI Serial Flash memory with filesystem-like functions. SerialFlash provides low-latency, high performance access to SPI Flash memory with a filesystem-like interface. Familiar file-based functions, similar to the SD library, are used to access data. Original author: Paul Stoffregen. This is my working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 0.5. Upstream: <https://github.com/PaulStoffregen/SerialFlash>.
 
 **Source last updated:** 2019-05-01  
 **Language:** C++ / Arduino  
@@ -35,7 +35,7 @@ Install this folder as an Arduino library (Sketch → Include Library → Add .Z
 - **Version:** 0.5
 - **Upstream URL:** <https://github.com/PaulStoffregen/SerialFlash>
 - **Category:** Data Storage
-- This repository is Dave Robinson's working copy for catalogue/reference; authorship stays with the original authors.
+- This repository is my working copy for catalogue/reference; authorship stays with the original authors.
 
 ## License
 
